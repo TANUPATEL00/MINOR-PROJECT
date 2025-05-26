@@ -1,2 +1,25 @@
 urllib3==1.26.7
 certifi==2021.5.30
+ flask import 
+ pandas as pd
+ numpy as np
+from sklearn.ensemble import RandomForestClassifier
+from urllib.parse import urlparse
+ whois
+ requests
+from bs4 import BeautifulSoup
+from datetime import datetime
+import joblib
+import tld
+import re
+import os
+import difflib
+import socket
+import ssl
+import OpenSSL
+from urllib3.exceptions import InsecureRequestWarning
+import warnings
+import pickle
+import dns.resolver
+import tldextract
+import validators
